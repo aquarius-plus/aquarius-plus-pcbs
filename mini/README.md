@@ -1,8 +1,8 @@
 # Aquarius<sup>+</sup> Mini
-A reduced-cost, small form factor version of the **Aqaurius<sup>+</sup>**, designed as an entry point for 8-bit enthusiasts who want physical hardware.
+A reduced-cost, small form factor version of the **Aquarius<sup>+</sup>**, designed as an entry point for 8-bit enthusiasts who want physical hardware.
 
 ## Introduction
-The **Aqaurius<sup>+</sup> Mini** retains all of the components relevant to enjoying the platform, but removes legacy hardware components that are more specific to collectors of original **Aqaurius Computer** such as the cartridge and cassette ports. In November of 2024, the **Aqaurius<sup>+</sup> Mini vZ** was introduced - "vZ" stands for Virtual Z80 - removing the physical Z80 chip and moving it into the FPGA along with the virtualized AY sound chips and the logic from the original PLA1 and PLA2 from the original **Aqaurius Computer** architecture.
+The **Aquarius<sup>+</sup> Mini** retains all of the components relevant to enjoying the platform, but removes legacy hardware components that are more specific to collectors of original **Aquarius Computer** such as the cartridge and cassette ports. In November of 2024, the **Aquarius<sup>+</sup> Mini vZ** was introduced - "vZ" stands for Virtual Z80 - removing the physical Z80 chip and moving it into the FPGA along with the virtualized AY sound chips and the logic from the original PLA1 and PLA2 from the original **Aquarius Computer** architecture.
 
 ## PCB Revisions
  * **rev1** (aka Mini vZ) - Current release platform
